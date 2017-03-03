@@ -23,16 +23,22 @@ WPA, WPA2 and AES
   http://www.etron.com/manager/uploads/EM638165TS_rev3.2.pdf
 * 5 Port 10/100 MBPS Switch: RTL8305S 9CA72Q2 G9508  
   http://realtek.info/pdf/rtl8305s.pdf
-* ??? DII 1506-33 0932aL
-* LD1117 L18AVE  
-  ??? http://www.st.com/content/ccc/resource/technical/document/datasheet/99/3b/7d/91/91/51/4b/be/CD00000544.pdf/files/CD00000544.pdf/jcr:content/translations/en.CD00000544.pdf
-* Network Filter / Port Transformer MNC H7201DG 1002  
+* Network 5 Port Transformer MNC H7201DG 1002  
+  http://www.lth-group.net/uploadfile/cfile/20121018114026706.pdf
   
 
-2.4GHz Power Amplifier IC;
-Skyworks;
-SE2527L;
-SiGe, 2527L, 529<..>;1;
+??? DII 1506-33 0932aL
+
+LD1117 L18AVE  
+  ???  http://www.st.com/content/ccc/resource/technical/document/datasheet/99/3b/7d/91/91/51/4b/be/CD00000544.pdf/files/CD00000544.pdf/jcr:content/translations/en.CD00000544.pdf
+
+2.4GHz Power Amplifier IC
+
+Skyworks
+
+SE2527L
+
+SiGe, 2527L, 529<..>;1
 
 
 
