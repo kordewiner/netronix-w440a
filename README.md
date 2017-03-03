@@ -16,12 +16,13 @@ WPA, WPA2 and AES
 * Barcode: W440A11803C00639
 * Manufacturer: Netronix
 * CPU: RTL8186 98T11A1 L940C
-* Flash - NOR 2M x 8 70ns: Macronix MX T094745 29LV160DBTI-70G 3A420303A1   
+* Flash NOR 2M x 8 70ns: Macronix MX T094745 29LV160DBTI-70G 3A420303A1   
   http://www.digikey.com/product-detail/en/macronix/MX29LV160DBTI-70G/1092-1134-ND/2744817  
-* SDRAM: EtronTech EM638165TS-6G N42AC12AFT085 11ZQ
-* Switch: RTL8305S 9CA72Q2 G9508
-
-* DII 1506-33 0932aL
+* SDRAM 4M x 16: EtronTech EM638165TS-6G N42AC12AFT085 11ZQ
+  http://www.etron.com/manager/uploads/EM638165TS_rev3.2.pdf
+* 5 Port 10/100 MBPS Switch: RTL8305S 9CA72Q2 G9508
+  http://realtek.info/pdf/rtl8305s.pdf
+* ??? DII 1506-33 0932aL
 * LD1117 L18AVE
 * MNC H7201DG 1002
 
