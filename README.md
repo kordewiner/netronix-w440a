@@ -15,7 +15,8 @@ WPA, WPA2 and AES
 
 * Barcode: W440A11803C00639
 * Manufacturer: Netronix
-* CPU: RTL8186 98T11A1 L940C
+* SoC mit 32-bit RISC CPU: RTL8186 98T11A1 L940C
+  http://www.realtek.com.tw/products/productsView.aspx?Langid=1&PFid=1&Level=5&Conn=4&ProdID=4
 * Flash NOR 2M x 8 70ns: Macronix MX T094745 29LV160DBTI-70G 3A420303A1   
   http://www.digikey.com/product-detail/en/macronix/MX29LV160DBTI-70G/1092-1134-ND/2744817  
 * SDRAM 4M x 16: EtronTech EM638165TS-6G N42AC12AFT085 11ZQ
