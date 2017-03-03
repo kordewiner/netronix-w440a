@@ -26,7 +26,8 @@ WPA, WPA2 and AES
 * ??? DII 1506-33 0932aL
 * LD1117 L18AVE  
   ??? http://www.st.com/content/ccc/resource/technical/document/datasheet/99/3b/7d/91/91/51/4b/be/CD00000544.pdf/files/CD00000544.pdf/jcr:content/translations/en.CD00000544.pdf
-* MNC H7201DG 1002
+* Network Filter / Port Transformer MNC H7201DG 1002  
+  
 
 2.4GHz Power Amplifier IC;
 Skyworks;
