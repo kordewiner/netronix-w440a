@@ -14,6 +14,8 @@ Supports wireless data encryption with 64/128-bit WEP,
 WPA, WPA2 and AES
 
 * Barcode: W440A11803C00639
+* PCB: 37NB-W4410+411 REV: 1.1 
+  E197709 94V-0 PAL-B
 * Manufacturer: [Netronix, Inc.](http://www.netronixinc.com) 
   No. 945, Bo'ai St, Zhubei City, Hsinchu County, Taiwan 302  
   https://goo.gl/maps/PWLNdjiG2uT2
