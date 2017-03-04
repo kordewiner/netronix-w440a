@@ -19,7 +19,9 @@ WPA, WPA2 and AES
 * Manufacturer: [Netronix, Inc.](http://www.netronixinc.com) 
   No. 945, Bo'ai St, Zhubei City, Hsinchu County, Taiwan 302  
   https://goo.gl/maps/PWLNdjiG2uT2
-* SoC with 32-bit RISC CPU: RTL8186 98T11A1 L940C  
+* Realtek RTL8186 is a SoC with integrated MIPS core 32-bit RISC, two UARTs, 
+  two Ethernet MACs, 4xPCM audio channels, IPSec crypto engine  
+  and a WLAN MAC/BB 802.11abg controller (+ RFIC Realtek RTL8225): RTL8186 98T11A1 L940C  
   http://www.realtek.com.tw/products/productsView.aspx?Langid=1&PFid=1&Level=5&Conn=4&ProdID=4
 * Flash NOR 2M x 8 70ns: Macronix MX T094745 29LV160DBTI-70G 3A420303A1   
   http://www.digikey.com/product-detail/en/macronix/MX29LV160DBTI-70G/1092-1134-ND/2744817  
@@ -29,39 +31,17 @@ WPA, WPA2 and AES
   http://realtek.info/pdf/rtl8305s.pdf
 * Network 5 Port Transformer MNC H7201DG 1002  
   http://www.lth-group.net/uploadfile/cfile/20121018114026706.pdf
-  
-
-??? DII 1506-33 0932aL
-
-LD1117 L18AVE  
-  ???  http://www.st.com/content/ccc/resource/technical/document/datasheet/99/3b/7d/91/91/51/4b/be/CD00000544.pdf/files/CD00000544.pdf/jcr:content/translations/en.CD00000544.pdf
-
-2.4GHz Power Amplifier IC
-
-Skyworks
-
-SE2527L
-
-SiGe, 2527L, 529<..>;1
-
-
-
-
-Power: 12 VDC, 1 A
-Label: 0008549A73AF
-
-
-
-The Realtek RTL8186 is a SoC with integrated MIPS core 32-bit RISC,
-two UARTs, two Ethernet MACs, 4xPCM audio channels, IPSec crypto engine
-and a WLAN MAC/BB 802.11abg controller (+ RFIC Realtek RTL8225).
+* unclear: DII 1506-33 0932aL
+* unclear: LD1117 L18AVE  
+  http://www.st.com/content/ccc/resource/technical/document/datasheet/99/3b/7d/91/91/51/4b/be/CD00000544.pdf/files/CD00000544.pdf/jcr:content/translations/en.CD00000544.pdf
+* Power: 12 VDC, 1 A
+* Label: 0008549A73AF
 
 ## FCC ID NOI-W441A 2007-03-28 
 
 * https://fccid.io/NOI-W441A
 
 Full Company Details: [Netronix Inc - NOI](https://fccid.io/NOI)
-
 
 ## Product Page, Datasheet and Manual
 
