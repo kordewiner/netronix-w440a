@@ -69,7 +69,15 @@ and a WLAN MAC/BB 802.11abg controller (+ RFIC Realtek RTL8225).
 * http://www.encore-usa.com/us/sites/default/files/product_file_datasheet/ENHWI-G2.pdf
 * http://www.encore-usa.com/us/sites/default/files/product_documents/ENHWI-G2_UM.pdf
 
-More:
+## More
 
 * https://wikidevi.com/wiki/Realtek_RTL8186
 * https://wikidevi.com/wiki/Netronix_W440A
+
+## Pictures
+
+https://github.com/kordewiner/netronix-w440a/blob/master/netronix-w440a-pcb-front.jpg
+
+https://github.com/kordewiner/netronix-w440a/blob/master/netronix-w440a-pcb-back.jpg
+
+https://github.com/kordewiner/netronix-w440a/blob/master/netronix-w440a-longshine.jpg
