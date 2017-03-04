@@ -1,9 +1,8 @@
-# netronix-w440a
-Netronix W440A (Longshine LCS-WR5-2214-A)
+# Netronix W440A (Longshine LCS-WR5-2214-A)
 
 * https://fcc.io/NOI/-W440
 
-Netronix,Inc. W440A
+## Netronix,Inc. W440A
 802.11g Wireless Broadband Router
 
 Complies with IEEE 802.11b/g wireless standards 
@@ -53,16 +52,20 @@ two UARTs, two Ethernet MACs, 4xPCM audio channels, IPSec crypto engine
 and a WLAN MAC/BB 802.11abg controller (+ RFIC Realtek RTL8225).
 
 
-######################################
 
-See Netronics W440A:
+## Product Page, Datasheet and Manual
 
-See Longshine LCS-WR5-2214-A:
+### Netronics W440A
 
+### Longshine LCS-WR5-2214-A
 
+* http://network.longshine.de/goods/detail/en/51/158
+* http://manual.longshine.de/3_Network_Driver/ROUTER/LCS-WR5-2214-A/wr5-2214-a_eng.pdf
+* http://manual.longshine.de/3_Network_Driver/ROUTER/LCS-WR5-2214-A/WR5-2214-A-manual_eng.pdf
 
-See Encore ENHWI-G2:
+### Encore ENHWI-G2
 
+* http://www.encore-usa.com/ca/product/ENHWI-G2
 * http://www.encore-usa.com/us/sites/default/files/product_file_datasheet/ENHWI-G2.pdf
 * http://www.encore-usa.com/us/sites/default/files/product_documents/ENHWI-G2_UM.pdf
 
