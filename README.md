@@ -66,6 +66,7 @@ Full Company Details: [Netronix Inc - NOI](https://fccid.io/NOI)
 ### Netronix W440A
 
 * http://info.taiwantrade.com/EP/resources/member/799/productcatalog/3eed5c62-fceb-4a88-b762-cd15fa0d1aa2_DS_W440A.pdf
+* https://fccid.io/pdf.php?id=773534
 
 ### Longshine LCS-WR5-2214-A
 
