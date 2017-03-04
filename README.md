@@ -1,9 +1,10 @@
-# Netronix W440A / Longshine LCS-WR5-2214-A / Encore ENHWI-G2
+# Netronix,Inc. W440A
+
+## 802.11g Wireless Broadband Router
 
 ![alt text](https://github.com/kordewiner/netronix-w440a/blob/master/netronix-w440a-pcb-front.jpg "PCB front")
 
-## Netronix,Inc. W440A
-802.11g Wireless Broadband Router
+## Netronix W440A / Longshine LCS-WR5-2214-A / Encore ENHWI-G2
 
 Complies with IEEE 802.11b/g wireless standards 
 Provides five 10/100Mbps Ethernet ports 
@@ -13,8 +14,8 @@ Supports wireless data encryption with 64/128-bit WEP,
 WPA, WPA2 and AES
 
 * Barcode: W440A11803C00639
-* Manufacturer: Netronix
-* SoC mit 32-bit RISC CPU: RTL8186 98T11A1 L940C  
+* Manufacturer: [Netronix, Inc.](http://www.netronixinc.com) 
+* SoC with 32-bit RISC CPU: RTL8186 98T11A1 L940C  
   http://www.realtek.com.tw/products/productsView.aspx?Langid=1&PFid=1&Level=5&Conn=4&ProdID=4
 * Flash NOR 2M x 8 70ns: Macronix MX T094745 29LV160DBTI-70G 3A420303A1   
   http://www.digikey.com/product-detail/en/macronix/MX29LV160DBTI-70G/1092-1134-ND/2744817  
