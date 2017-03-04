@@ -1,6 +1,6 @@
-# Netronix W440A (Longshine LCS-WR5-2214-A)
+# Netronix W440A / Longshine LCS-WR5-2214-A / Encore ENHWI-G2
 
-* https://fcc.io/NOI/-W440
+![alt text](https://github.com/kordewiner/netronix-w440a/blob/master/netronix-w440a-pcb-front.jpg "PCB front")
 
 ## Netronix,Inc. W440A
 802.11g Wireless Broadband Router
@@ -55,7 +55,9 @@ and a WLAN MAC/BB 802.11abg controller (+ RFIC Realtek RTL8225).
 
 ## Product Page, Datasheet and Manual
 
-### Netronics W440A
+### Netronix W440A
+
+* http://info.taiwantrade.com/EP/resources/member/799/productcatalog/3eed5c62-fceb-4a88-b762-cd15fa0d1aa2_DS_W440A.pdf
 
 ### Longshine LCS-WR5-2214-A
 
@@ -73,10 +75,7 @@ and a WLAN MAC/BB 802.11abg controller (+ RFIC Realtek RTL8225).
 
 * https://wikidevi.com/wiki/Realtek_RTL8186
 * https://wikidevi.com/wiki/Netronix_W440A
-
-## Pictures
-
-![alt text](https://github.com/kordewiner/netronix-w440a/blob/master/netronix-w440a-pcb-front.jpg "PCB front")
+* https://fcc.io/NOI/-W440
 
 ![alt text](https://github.com/kordewiner/netronix-w440a/blob/master/netronix-w440a-pcb-back.jpg "PCB back")
 
