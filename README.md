@@ -78,6 +78,6 @@ and a WLAN MAC/BB 802.11abg controller (+ RFIC Realtek RTL8225).
 
 ![alt text](https://github.com/kordewiner/netronix-w440a/blob/master/netronix-w440a-pcb-front.jpg "PCB front")
 
-https://github.com/kordewiner/netronix-w440a/blob/master/netronix-w440a-pcb-back.jpg
+![alt text](https://github.com/kordewiner/netronix-w440a/blob/master/netronix-w440a-pcb-back.jpg "PCB back")
 
-https://github.com/kordewiner/netronix-w440a/blob/master/netronix-w440a-longshine.jpg
+![alt text](https://github.com/kordewiner/netronix-w440a/blob/master/netronix-w440a-longshine.jpg "Longshine")
