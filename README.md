@@ -1,6 +1,6 @@
 # Netronix,Inc. W440A
 
-## 802.11g Wireless Broadband Router
+## 802.11g Wireless VPN Broadband Router
 
 ![alt text](https://github.com/kordewiner/netronix-w440a/blob/master/netronix-w440a-pcb-front.jpg "PCB front")
 
@@ -15,6 +15,8 @@ WPA, WPA2 and AES
 
 * Barcode: W440A11803C00639
 * Manufacturer: [Netronix, Inc.](http://www.netronixinc.com) 
+  No. 945, Bo'ai St, Zhubei City, Hsinchu County, Taiwan 302  
+  https://goo.gl/maps/PWLNdjiG2uT2
 * SoC with 32-bit RISC CPU: RTL8186 98T11A1 L940C  
   http://www.realtek.com.tw/products/productsView.aspx?Langid=1&PFid=1&Level=5&Conn=4&ProdID=4
 * Flash NOR 2M x 8 70ns: Macronix MX T094745 29LV160DBTI-70G 3A420303A1   
@@ -52,6 +54,11 @@ The Realtek RTL8186 is a SoC with integrated MIPS core 32-bit RISC,
 two UARTs, two Ethernet MACs, 4xPCM audio channels, IPSec crypto engine
 and a WLAN MAC/BB 802.11abg controller (+ RFIC Realtek RTL8225).
 
+## FCC ID NOI-W441A 2007-03-28 
+
+* https://fccid.io/NOI-W441A
+
+Full Company Details: [Netronix Inc - NOI](https://fccid.io/NOI)
 
 
 ## Product Page, Datasheet and Manual
